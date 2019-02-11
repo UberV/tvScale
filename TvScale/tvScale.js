@@ -62,7 +62,6 @@ class tvFunction extends Application {
 
 }
 
-//OK DUMB ASSS WHEN CALLING FUNCTIONS MAKE SURE TO USE THE DECLARED VARIABLE FOR THIS CLASS. EG func1.testFunc1(); ASSHOLE
 
 let tvFunc = new tvFunction();
 tvFunc.hookActorList();
