@@ -1,0 +1,11 @@
+{
+  "name": "TvScale",
+  "title": "TV Scale",
+  "description": "This module adds a button which will scale the current scene to your TV",
+  "version": "0.0.1",
+  "author": "UberB",
+  "systems": ["dnd5e"],
+  "scripts": ["tvScale.js"],
+  "styles": [],
+  "packs": []
+}
